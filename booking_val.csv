@@ -1,0 +1,4 @@
+booking_id,customer_id,vehicle_id,slot_id,booking_status,user_id
+999,1000,2524,20,1,69892
+998,1001,2382,22,1,63902
+997,1002,2392,23,1,69322
